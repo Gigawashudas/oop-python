@@ -1,3 +1,6 @@
+
+
+
 class Shape:
     def area(self):
         print("Calculating area of the shape")

@@ -1,3 +1,6 @@
+
+
+
 class Vehicle:
     def engine_type(self):
         print("Vehicle engine type: Internal Combustion Engine")
